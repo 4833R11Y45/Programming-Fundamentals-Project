@@ -5,4 +5,4 @@ In the repository, there is 'Snake Game' folder. Download that folder. the folde
 # Project Description:
 The program first shows the menu screen, in which there are various options. There are two modes: with wall and without wall. Controls option shows the controls. A video file has been attached to show the demonstration of the gameplay.
 # Note:
-A pdf file has been uploaded in the reository for theinformation of the coding part.
+A pdf file has been uploaded in the repository for the information of the coding part.
