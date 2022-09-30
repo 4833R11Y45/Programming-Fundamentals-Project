@@ -1,5 +1,5 @@
 # Programming-Fundamentals-Project
-# Project Nmae: Snake Game
+# Project Name: Snake Game
 # How to download the snake game:
 In the repository, there is 'Snake Game' folder. Download that folder. the folder contains the solution file to execue and run the program, the file name is 'Snake Game.sln', open it up. Run the file and game on!
 # Project Description:
